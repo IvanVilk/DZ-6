@@ -1,15 +1,15 @@
-.header {
+header {
     background-color: black;
 }
 
-.main {
+main {
     background-color: beige;
 }
 
-.footer {
+footer {
     background-color: rgb(46, 44, 44);
 }
 
-.div {
+div {
     background-color: blue;
 }
